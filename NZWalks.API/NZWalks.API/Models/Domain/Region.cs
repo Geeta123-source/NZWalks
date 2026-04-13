@@ -19,7 +19,7 @@
 
         //Navigation property
 
-        public IEnumerable<Walk> walks { get; set; }
+        //public IEnumerable<Walk> walks { get; set; }
 
     }
 }
